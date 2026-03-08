@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\interfete\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\interfete\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\interfete\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\interfete\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\interfete\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\interfete\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\interfete\\iproductcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\interfete\\iproductcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\quantitydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\quantitydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\minumumorderdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\minumumorderdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\ecommerceapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\ecommerceapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\deliveryoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\deliveryoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\dpd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\dpd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\samedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\samedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\applepaypayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\applepaypayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\servicii\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\servicii\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\fancourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\fancourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\strategii\\cardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\strategii\\cardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\interfete\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\interfete\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\interfete\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\interfete\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\interfete\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\interfete\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|c:\\users\\erisa\\source\\repos\\tema 1\\tema 1\\tema 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7317289-66A4-8488-13AE-2670641992A0}|Tema 1\\Tema 1.csproj|solutionrelative:tema 1\\tema 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Interfete\\IDiscountService.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IDiscountService.cs",
+              "RelativeToolTip": "Tema 1\\Interfete\\IDiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:38:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShippingService.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IShippingService.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Interfete\\IShippingService.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IShippingService.cs",
+              "RelativeToolTip": "Tema 1\\Interfete\\IShippingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:38:11.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Interfete\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IPaymentService.cs",
+              "RelativeToolTip": "Tema 1\\Interfete\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:37:06.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IProductCatalog.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Interfete\\IProductCatalog.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IProductCatalog.cs",
+              "RelativeToolTip": "Tema 1\\Interfete\\IProductCatalog.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:36:24.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\CustomerMenu.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\CustomerMenu.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\CustomerMenu.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\CustomerMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:09:11.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputService.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\InputService.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\InputService.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\InputService.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\InputService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:08:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\AdminMenu.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\AdminMenu.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:08:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuantityDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\QuantityDiscount.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\QuantityDiscount.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\QuantityDiscount.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\QuantityDiscount.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:31:35.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MinumumOrderDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\MinumumOrderDiscount.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\MinumumOrderDiscount.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\MinumumOrderDiscount.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\MinumumOrderDiscount.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:31:08.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PercentageDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\PercentageDiscount.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\PercentageDiscount.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\PercentageDiscount.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\PercentageDiscount.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:30:26.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\DiscountService.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\DiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:26:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ECommerceApp.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\ECommerceApp.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\ECommerceApp.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\ECommerceApp.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\ECommerceApp.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:15:12.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Store.cs",
+              "RelativeToolTip": "Tema 1\\Models\\Store.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:13:49.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShippingService.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\ShippingService.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\ShippingService.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\ShippingService.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\ShippingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:01:04.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeliveryOption.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\DeliveryOption.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\DeliveryOption.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\DeliveryOption.cs",
+              "RelativeToolTip": "Tema 1\\Models\\DeliveryOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:52:59.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DPD.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\DPD.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\DPD.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\DPD.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\DPD.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:49:00.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Samedy.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\Samedy.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\Samedy.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\Samedy.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\Samedy.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:47:42.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplePayPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\ApplePayPayment.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\ApplePayPayment.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\ApplePayPayment.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\ApplePayPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:34:14.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\PayPalPayment.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\PayPalPayment.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\PayPalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:33:52.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\PaymentService.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\PaymentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:22:42.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Order.cs",
+              "RelativeToolTip": "Tema 1\\Models\\Order.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:16:10.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\CartItem.cs",
+              "RelativeToolTip": "Tema 1\\Models\\CartItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:15:05.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\ProductCatalog.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\ProductCatalog.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\ProductCatalog.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\ProductCatalog.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:03:58.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Admin.cs",
+              "RelativeToolTip": "Tema 1\\Models\\Admin.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA6wA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:03:20.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Customer.cs",
+              "RelativeToolTip": "Tema 1\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:02:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\User.cs",
+              "RelativeToolTip": "Tema 1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:02:26.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\OrderService.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Servicii\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Servicii\\OrderService.cs",
+              "RelativeToolTip": "Tema 1\\Servicii\\OrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:45:14.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FanCourier.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\FanCourier.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\FanCourier.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\FanCourier.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\FanCourier.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:44:48.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NoDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\NoDiscount.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\NoDiscount.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\NoDiscount.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\NoDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:44:15.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\CardPayment.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Strategii\\CardPayment.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Strategii\\CardPayment.cs",
+              "RelativeToolTip": "Tema 1\\Strategii\\CardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:37:25.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Tema 1\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:36:57.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Models\\Product.cs",
+              "RelativeToolTip": "Tema 1\\Models\\Product.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:36:25.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Interfete\\IDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IDiscountStrategy.cs",
+              "RelativeToolTip": "Tema 1\\Interfete\\IDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:35:56.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IShippingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IShippingStrategy.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Interfete\\IShippingStrategy.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IShippingStrategy.cs",
+              "RelativeToolTip": "Tema 1\\Interfete\\IShippingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:35:32.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Interfete\\IPaymentStrategy.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Interfete\\IPaymentStrategy.cs",
+              "RelativeToolTip": "Tema 1\\Interfete\\IPaymentStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:34:53.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Tema 1.csproj",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Tema 1.csproj",
+              "RelativeDocumentMoniker": "Tema 1\\Tema 1.csproj",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Tema 1.csproj",
+              "RelativeToolTip": "Tema 1\\Tema 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-07T21:29:55.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Program.cs",
+              "RelativeDocumentMoniker": "Tema 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Erisa\\source\\repos\\Tema 1\\Tema 1\\Program.cs",
+              "RelativeToolTip": "Tema 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:24:42.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
